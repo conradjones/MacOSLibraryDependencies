@@ -1,5 +1,5 @@
 # MacOSLibraryDependencies
-Copy dylibs / frameworks to the bundle frameworks folder or standalone executable folder and fix the rpaths
+Copy dylibs / frameworks to the bundle frameworks folder or standalone executable folder and fixes the rpaths
 
 
 This is a quick/simple utility to copy the frameworks and dylibs required by an executable or a bundle to 

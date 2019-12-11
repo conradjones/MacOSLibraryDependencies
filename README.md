@@ -11,8 +11,8 @@ Usage :
 
 --> Fixes a standalone executable
 
-macho_standalone_deps <binary> <list_of_library_paths_to_search>
+```macho_standalone_deps <binary> <list_of_library_paths_to_search>```
 
 --> Fixes an app bundle
 
-macho_bundle_deps <binary> <list_of_library_paths_to_search>
+```macho_bundle_deps <binary> <list_of_library_paths_to_search>```
